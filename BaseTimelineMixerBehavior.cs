@@ -2,7 +2,7 @@ using System.Collections.Generic;
 using UnityEngine.Playables;
 using UnityEngine.Timeline;
 
-namespace MoleMole.Timeline.BaseTimeline
+namespace UnityEngine.Timeline
 {
     
     public class BaseTimelineMixerBehavior : PlayableBehaviour
